@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### Welcome to Millennium Magic, a visionary endeavor dedicated to transforming the cherished dreams of countless early 2000s youth into tangible reality. 🧙
 ### Our mission is to craft an unparalleled, immersive realm of Yu-Gi-Oh gameplay, bringing to life a breathtaking fusion of fantasy and technology." 👩‍💻
-### Get ready to experience you're favorite children's card game like never before!
+### Get ready to experience your favorite children's card game like never before!
 
 ![bonds-beyond](https://github.com/Millennium-Magic/.github/assets/69180570/afd716cd-114d-4329-9ded-3b3d80540f40)
 
